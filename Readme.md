@@ -1,6 +1,6 @@
 Pandas Tutorial 
 
-Whats i panda ?
+What is panda ?
  - it is python library 
  - used for working with data set
  - it is a funtion for analyzing ,cleaning,exploring, manipulating data
